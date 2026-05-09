@@ -1,0 +1,16 @@
+body {
+    background-color: black;
+}
+#g {
+    color:rgb(119, 236, 83);
+    
+    display: flex;
+    justify-content: center;
+    align-items: center;
+   
+}
+.goon{ 
+    display: flex;
+    justify-content: center;
+    align-content: center;
+}
